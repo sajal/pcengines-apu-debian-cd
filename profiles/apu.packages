@@ -8,3 +8,7 @@ wpasupplicant
 iw
 hdparm
 smartmontools
+openvpn
+mtr
+vim
+dnsutils
